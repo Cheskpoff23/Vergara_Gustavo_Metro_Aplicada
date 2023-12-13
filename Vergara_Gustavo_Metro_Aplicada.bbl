@@ -1,0 +1,61 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Edici{\'o}n%
+}{%
+Edici{\'o}n%
+}{%
+{\protect \APACyear {2023}}%
+}]{%
+Edicion2023-vp}
+\APACinsertmetastar {%
+Edicion2023-vp}%
+\begin{APACrefauthors}%
+Edici{\'o}n, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2023}.
+\newblock
+\APACrefbtitle {Metrolog{\'\i}a Automotriz: Tipos, {SI}, Instrumentos,
+  calibradores, probadores, osciloscopio, s{\'\i}mbolos} {Metrolog{\'\i}a
+  automotriz: Tipos, {SI}, instrumentos, calibradores, probadores,
+  osciloscopio, s{\'\i}mbolos}.
+\newblock
+\APACaddressPublisher{}{Independently Published}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Huang%
+, Du%
+\BCBL {}\ \BBA {} Guo%
+}{%
+Huang%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+Huang_undated-jb}
+\APACinsertmetastar {%
+Huang_undated-jb}%
+\begin{APACrefauthors}%
+Huang, M.%
+, Du, B.%
+\BCBL {}\ \BBA {} Guo, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+\APACrefbtitle {A hybrid collaborative framework for integrated production
+  scheduling and vehicle routing problem with batch manufacturing and soft time
+  windows.} {A hybrid collaborative framework for integrated production
+  scheduling and vehicle routing problem with batch manufacturing and soft time
+  windows.}
+\newblock
+\APAChowpublished
+  {\url{https://ezproxyucor.unicordoba.edu.co:2054/science/article/pii/S0305054823002101}}.
+\newblock
+\APACrefnote{Accessed: 2023-12-7}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
